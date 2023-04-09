@@ -1,4 +1,4 @@
 # Swiper-slider
 
-#Github pages
+# Github pages
 https://belozerova-elena.github.io/Swiper-slider/
